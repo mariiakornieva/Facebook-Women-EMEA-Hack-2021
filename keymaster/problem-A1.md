@@ -29,7 +29,7 @@ Your input file consists of N, W×H maps, separated by blank lines, and encoded 
 ## Output
 Your output should be a file containing a single line consisting of N characters, separated by spaces:
 O_0\;O_1\;\ldots\;O_{N-1}
-![equation](O_0\;O_1\;\ldots\;O_{N-1})
+![\Large O_0\;O_1\;\ldots\;O_{N-1}]
 
 where O_i should be **P if it is possible** to reach the swag in the i-th map and **I otherwise**.
 
