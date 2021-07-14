@@ -1,6 +1,6 @@
 # Problem
-__Dots and Dashes__ is a text encoding, similar to (but not the same as!) ![other formats](https://www.wikiwand.com/en/Morse_code) used in electric telegraphy.  Like those other formats, it uses sequences of dots “.” and dashes “-” to encode characters, but unlike those other formats, it uses the following translation table:
-
+__Dots and Dashes__ is a text encoding, similar to (but not the same as!) [other formats](https://www.wikiwand.com/en/Morse_code) used in electric telegraphy.  Like those other formats, it uses sequences of dots “.” and dashes “-” to encode characters, but unlike those other formats, it uses the following translation table:
+```
 +----------+----------+----------+----------+----------+----------+
 | A  .     | B  ...   | C  ..-   | D  .-.   | E  -     | F  .--   |
 | G  -..   | H  -.-   | I  ..    | J  --.   | K  ---   | L  ....  |
@@ -13,7 +13,7 @@ __Dots and Dashes__ is a text encoding, similar to (but not the same as!) ![othe
 | 8  ---.. | 9  ---.- | +  ----. | -  ----- | *  -.--. | /  -.--- |
 | %  -.-.- |          |          |          |          |          |
 +----------+----------+----------+----------+----------+----------+
-
+```
 As an optional aid, a copy of the translation table can be found in `encoding.txt`, with each translation on its own line.
 
 Your telegraph machine is connected to a service describing open source projects using the dots and dashes protocol.  Your task is to **decode these descriptions**.
