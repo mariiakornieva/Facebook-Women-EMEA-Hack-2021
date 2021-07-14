@@ -1,4 +1,4 @@
-# Problem
+# Problem C2: CI-Pipelines
 We’re constantly looking to improve the rate at which we can process these revisions. So, we are parallelizing our system! We still have N servers, each dedicated to one stage, but we now have multiple pipelines running at the same time. This means that multiple servers can work on the same stage at the same time. Due to the way our network is structured, each server can only pass their results on to one other server that is sitting in the same pipeline.
 
 Given a list of servers with their capacities and input/output destinations, calculate the capacity of all the available pipelines together!

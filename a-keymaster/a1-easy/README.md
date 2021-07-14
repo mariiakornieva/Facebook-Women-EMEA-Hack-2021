@@ -1,4 +1,4 @@
-# Problem
+# Problem A1: Keymaster
 You’re trying to find where the swag is kept in the Facebook office and, as expected, all the best stuff is hidden in hard to reach places. Fortunately, you manage to make your way to one of the screens on the wall that shows you the map of the floor and the location of the most coveted swag (a Wayfinder).
 
 Since swag is such a valuable commodity at Facebook, a number of doors, D, stand between you and your goal. Doors are opened using tokens and luckily for you, the map also shows you where they have been left in the office.

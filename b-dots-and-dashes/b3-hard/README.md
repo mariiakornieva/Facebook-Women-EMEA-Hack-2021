@@ -1,4 +1,4 @@
-# Problem
+# Problem B3: Dots and Dashes
 __Dots and Dashes__ is a text encoding, similar to (but not the same as!) [other formats](https://www.wikiwand.com/en/Morse_code) used in electric telegraphy.  Like those other formats, it uses sequences of dots “.” and dashes “-” to encode characters, but unlike those other formats, it uses the following translation table:
 ```
 +----------+----------+----------+----------+----------+----------+
