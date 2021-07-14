@@ -28,8 +28,7 @@ Your input file consists of N, W×H maps, separated by blank lines, and encoded 
 
 ## Output
 Your output should be a file containing a single line consisting of N characters, separated by spaces:
-O_0\;O_1\;\ldots\;O_{N-1}
-![\Large O_0\;O_1\;\ldots\;O_{N-1}]
+![\Large O_0\\ O_1\\ \ldots\\ O_{N-1}](https://latex.codecogs.com/gif.latex?O_0%5C%20O_1%5C%20%5Cldots%5C%20O_%7BN-1%7D)
 
 where O_i should be **P if it is possible** to reach the swag in the i-th map and **I otherwise**.
 
