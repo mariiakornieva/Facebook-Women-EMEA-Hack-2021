@@ -18,10 +18,10 @@ Each map has at most **one door** and **one token**. The token can be picked up 
 ## Constraints
  - Each map will contain exactly one starting position and goal
  - Each map will contain at most one door and token
- - 500 ≤ W ≤ 50
- - 500 ≤ H ≤ 50
- - 1000 ≤ N ≤ 100
- - 10 ≤ D ≤ 1
+ - 0 ≤ W ≤ 50
+ - 0 ≤ H ≤ 50
+ - 0 ≤ N ≤ 100
+ - 0 ≤ D ≤ 1
 
 ## Input
 Your input file consists of N, W×H maps, separated by blank lines, and encoded using the characters described above (., #, D, T, S, G).
