@@ -45,4 +45,4 @@ Input format and constraint remain the same.
 ## Explanation of Sample
 Server 5 can divide up its capacity and send 2 revisions to Server 1 and 4 revisions to Server 6. But now, the second stage (Server 1 and 6) are at full capacity and cannot process any more revision from Server 0. The remaining stages can process more than 6 revisions so the second stage is the bottleneck which has a capacity of 6.
 
-![Sample-output](./sample.jpg)
+![Sample-output](./sample.jpeg)
